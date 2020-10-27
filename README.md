@@ -14,7 +14,7 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="isaiah Spotify Playing" width="350" />](https://www.spotify.com/in/account/overview/?utm_source=play&utm_campaign=wwwredirect)
 
----
+
 ### Connect with me:
 <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
