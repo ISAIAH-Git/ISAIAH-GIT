@@ -1,3 +1,4 @@
+<body BGRCOLOR="BLACK".TEXT="WHITE">
 ### HOLA, COMO ESTAS, I'M [ISAIAH](https://www.linkedin.com/in/isaiah-96a366179/)   👋
 
 - 🔭 I’m a Data Scientist...
@@ -7,7 +8,7 @@
 - 💬 Ask me about Machine Learning, Deep Learning BIG DATA .....
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: I EAT SLEEP CODE REPEAT
-
+<body/>
 ![R.ISAIAH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISAIAH-Git&count_private=true&theme=gotham)
 
 ### Spotify Playing 🎧
