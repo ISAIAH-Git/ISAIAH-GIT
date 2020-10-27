@@ -8,10 +8,11 @@
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: I EAT SLEEP CODE REPEAT
 
-
-
-
 ![R.ISAIAH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISAIAH-Git&count_private=true&theme=gotham)
+
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="isaiah Spotify Playing" width="350" />](https://www.spotify.com/in/account/overview/?utm_source=play&utm_campaign=wwwredirect)
 
 ### Connect with me:
 
@@ -20,5 +21,3 @@
 
 <br/>
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="isaiah Spotify Playing" width="350" />](https://www.spotify.com/in/account/overview/?utm_source=play&utm_campaign=wwwredirect)
