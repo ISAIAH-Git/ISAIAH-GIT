@@ -12,5 +12,3 @@
 
 
 ![R.ISAIAH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISAIAH-Git&count_private=true&theme=gotham)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ISAIAH-Git&repo=github-readme-stats)](https://github.com/ISAIAH-Git/github-readme-stats)
