@@ -1,4 +1,3 @@
-<body BGRCOLOR="BLACK".TEXT="WHITE">
 ### HOLA, COMO ESTAS, I'M [ISAIAH](https://www.linkedin.com/in/isaiah-96a366179/)   👋
 
 - 🔭 I’m a Data Scientist...
