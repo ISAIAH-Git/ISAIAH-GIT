@@ -1,4 +1,4 @@
-
+<span style="color:blue">
 ***HOLA, COMO ESTAS, I'M [ISAIAH](https://www.linkedin.com/in/isaiah-96a366179/)*** 👋
 
 - 🔭 ***I’m a Data Scientist...***
@@ -24,3 +24,4 @@
 ### ***Programming Platforms :***
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>   <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>  
  
+</span>
