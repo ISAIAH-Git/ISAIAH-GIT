@@ -16,7 +16,8 @@
 ### ***Connect with me :***
 <a href="https://www.linkedin.com/in/isaiah-96a366179/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://www.kaggle.com/isaiahshade/account">
+</a>
+<a href="https://www.kaggle.com/isaiahshade/account">
   <img src="https://img.shields.io/badge/-kaggle-blue?style=for-the-badge&labelColor=black&logo=kaggle&logoColor=61DBFB)" alt="kaggle" style="vertical-align:top; margin:4px">
 </a>&nbsp;&nbsp;&nbsp; 
 <a href="https://www.codechef.com/users/isaiah_715">
