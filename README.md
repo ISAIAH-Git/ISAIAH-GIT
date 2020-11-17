@@ -1,7 +1,7 @@
 ***HOLA, COMO ESTAS, I'M [ISAIAH](https://www.linkedin.com/in/isaiah-96a366179/)*** 👋
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l4JzdwJ33hz12Gw6s/giphy.gif" />
 - 🔭 ***I’m a Data Scientist...***
-- 🌱 ***I’m currently learning Machine learning ,Deep learning BIG Data  etc..***     <img align="right" alt="GIF" src="https://media.giphy.com/media/l4JzdwJ33hz12Gw6s/giphy.gif" />
+- 🌱 ***I’m currently learning Machine learning ,Deep learning BIG Data  etc..***     
 - 👯 ***I’m looking to collaborate on Various ML ,DL Projects ...***
 - 🤔 ***I’m looking forward to learn work hard and excel in Data Science ..***
 - 💬 ***Ask me about Machine Learning, Deep Learning BIG DATA .....***
