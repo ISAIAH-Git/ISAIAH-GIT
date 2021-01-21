@@ -4,7 +4,7 @@
 - 🌱 ***I’m currently learning Machine learning ,Deep learning BIG Data  etc..***     
 - 👯 ***I’m looking to collaborate on Various ML ,DL Projects ...***
 - 🤔 ***I’m looking forward to learn work hard and excel in Data Science ..***
-- 💬 ***Ask me about Machine Learning, Deep Learning BIG DATA .....***
+- 💬 ***Ask me about Machine Learning, Deep Learning BIG DATA Pyspark .....***
 - 😄 ***Pronouns: HE/HIS***
 - ⚡ ***Fun fact: I EAT SLEEP CODE REPEAT***
 
