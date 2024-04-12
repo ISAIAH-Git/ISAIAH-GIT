@@ -1,52 +1,44 @@
 ***HOLA, COMO ESTAS, I'M [ISAIAH](https://www.linkedin.com/in/isaiah-96a366179/)*** 👋
-<img align="right" alt="GIF" src="https://media.giphy.com/media/l4JzdwJ33hz12Gw6s/giphy.gif" />
-- 🔭 ***I’m a Data Scientist...***
-- 🌱 ***I’m currently learning Machine learning ,Deep learning BIG Data Pyspark  etc..***     
-- 👯 ***I’m looking to collaborate on Various ML ,DL Projects ...***
-- 🤔 ***I’m looking forward to learn work hard and excel in Data Science ..***
-- 💬 ***Ask me about Machine Learning, Deep Learning BIG DATA Pyspark .....***
-- 😄 ***Pronouns: HE/HIS***
-- ⚡ ***Fun fact: I EAT SLEEP CODE REPEAT***
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l4JzdwJ33hz12Gw6s/giphy.gif" width="500"/>
 
+### I'm a Data Scientist... 🚀
+- **🌱 Learning:** Advanced Machine Learning, Deep Learning, BIG Data, PySpark, and diving into the intricacies of AI.
+- **👯 Collaborating:** Eager to contribute to ML, DL Projects and open-source data science projects.
+- **🤔 Goals:** Dedication to mastering Data Science and making significant contributions to the community.
+- **💬 Ask me about:** Machine Learning, Deep Learning, BIG DATA, PySpark, data visualization, and the data science lifecycle.
+- **😄 Pronouns:** He/His
+- **⚡ Fun fact:** In the world of data, I find my zen in coding.
 
-![***R.ISAIAH's GitHub Stats***](https://github-readme-stats.vercel.app/api?username=ISAIAH-Git&count_private=true&theme=gotham)   
+### 📊 ***R.ISAIAH's GitHub Stats***
+![R.ISAIAH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISAIAH-Git&count_private=true&theme=gotham)
 
+### 🎧 ***Spotify Playing***
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://www.spotify.com/in/account/overview/?utm_source=play&utm_campaign=wwwredirect)
 
-### ***Spotify Playing :*** 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="isaiah Spotify Playing" width="350" />](https://www.spotify.com/in/account/overview/?utm_source=play&utm_campaign=wwwredirect)
+### 📬 ***Connect with me***
+<p align="left">
+  <a href="https://www.linkedin.com/in/isaiah-96a366179/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/isaiahshade/account"><img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&labelColor=black&logo=kaggle&logoColor=61DBFB" alt="Kaggle"/></a>
+  <a href="https://www.codechef.com/users/isaiah_715"><img src="https://img.shields.io/badge/-Codechef-red?style=for-the-badge&labelColor=black&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://www.hackerrank.com/isaiahisaiah715"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://stackoverflow.com/users/14104661/isaiah-shady"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+</p>
 
-
-### ***Connect with me :***
-
-<a href="https://www.linkedin.com/in/isaiah-96a366179/">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-<a href="https://www.kaggle.com/isaiahshade/account">
-  <img src="https://img.shields.io/badge/-kaggle-blue?style=for-the-badge&labelColor=black&logo=kaggle&logoColor=61DBFB)" alt="kaggle" style="vertical-align:top; margin:4px">
-</a>&nbsp;&nbsp;&nbsp; 
-
-<a href="https://www.codechef.com/users/isaiah_715">
-  <img src="https://img.shields.io/badge/-codechef-red?style=for-the-badge&labelColor=black&logo=codechef&logoColor=f5f6f7d)" alt="codechef" style="vertical-align:top; margin:4px">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/isaiahisaiah715">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
- </a>
- 
- <a href="https://stackoverflow.com/users/14104661/isaiah-shady">
-   <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>  
- </a>
-
-  
-
-### ***Languages and Tools :***
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />  <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />  <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />  <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />  <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>  <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>  <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />  <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />   <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>  <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />   <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
-<code><img height="20" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
-<code><img height="20" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
-<code><img height="20" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
+### 🛠 ***Languages and Tools:***
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=sql&logoColor=white" />
+  <img alt="Qlik" src="https://img.shields.io/badge/-Qlik-F4B400?style=for-the-badge&logo=qlik&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+  <!-- Add any other languages or tools relevant to your profile -->
+</p>
