@@ -13,8 +13,6 @@
 ### 📊 ***R.ISAIAH's GitHub Stats***
 ![R.ISAIAH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISAIAH-Git&count_private=true&theme=gotham)
 
-### 📊 ***Most Used Languages***
-![Most Used Languages](https://now-playing-codestackr.vercel.app/api/top-langs/?username=ISAIAH-Git&layout=compact&theme=gotham)
 
 ### 📬 ***Connect with me***
 <p align="left">
